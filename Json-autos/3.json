@@ -1,7 +1,7 @@
 {
     "id": 3,
     "name": "Suzuki Celerio",
-    "description": "Un auto que se ha ganado la buena fama por su economía con el combustible.",
+    "description": "El Suzuki Celerio es un urbano de cinco puertas y 3,60 metros de longitud. Es el coche más pequeño fabricado por Suzuki, y es una alternativa a coches pequeños para la ciudad como el Hyundai i10, el Opel Karl o el Toyota Aygo. Es un producto básico, barato y sólo disponible con una motorización, apto para poco más que entornos urbanos y periurbanos.",
     "cost": 12500,
     "currency": "USD",
     "soldCount": 25,
